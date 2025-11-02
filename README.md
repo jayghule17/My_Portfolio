@@ -1,38 +1,39 @@
-# Hi, I’m Sejal Aware 👋  
-**Full-Stack / Front-End / Back-End /Developer**
+Hi, I’m Jay Ghule 👋
 
----
+Full-Stack / Front-End / Back-End Developer
 
-## About Me  
-- 📍 Based in *Nashik / India*  
-- 💻 I create web apps using **React**, **java script** 
-- 🎯 Passionate about Reactjs, performance, and clean code
+💫 About Me
 
----
+📍 Based in Pune, India
 
-## 🔧 Skills  
-| Category | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React,(etc.),Bootstrap |
-| Tools & Others | Git, (etc.) |
----
+💻 I create responsive and modern web applications using React, JavaScript, Python, and MySQL.
 
-## 🚀 Featured Projects
+🎯 Passionate about front-end design, clean UI, and building efficient full-stack solutions.
 
-| Project | Description | Technologies | Live / GitHub |
-|---|---|---|---|
-| **My_Portfolio** |This is my portfolio website, built using modern front-end tools and frameworks. It highlights my skills, education, and showcased projects — each demonstrating my approach to design and code. Dive in to explore my work, capabilities, and growth as a developer | React | [demo](https://sejal2063.github.io/My_Portfolio/)• [Code](https://github.com/sejal2063/My_Portfolio.git) |
+🔧 Skills
+Category	Technologies
+Frontend	HTML, CSS, JavaScript, React, Bootstrap
+Backend	Python, MySQL
+Tools & Others	Git, GitHub, VS Code, Power BI
+🚀 Featured Projects
+Project	Description	Technologies	Live / GitHub
+My_Portfolio	My personal portfolio website built using modern web technologies. It showcases my skills, education, and projects — reflecting my growth and creativity as a developer.	HTML, CSS, JavaScript, React	Demo
+ • Code
 
----
+Amazon Clone	A front-end clone of Amazon’s UI with responsive design and interactive features.	HTML, CSS, JavaScript	
+Apple Clone	A replica of Apple’s homepage focusing on animation and layout design.	React, CSS	
+📞 Contact & Socials
 
-## 📞 Contact & Socials  
-- Email: sejalaware2063@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sejal-are-292b19310aw)  
-- Portfolio: [yourportfolio.com](https://github.com/sejal2063/My_Portfolio.git)  
+📧 Email: ghulej88@gmail.com
 
----
+💼 LinkedIn: Jay Ghule
 
-## 🎓 Education & Certifications 
-- B.Sc / Computer science / Full Stack Devloper …  
-- Certification in …  Full Stack
+🧑‍💻 GitHub: jayghule17
 
+🌐 Portfolio: My Portfolio
+
+🎓 Education & Certifications
+
+B.C.A. – Kale College, Pune University
+
+Certifications: Python Full Stack Development
